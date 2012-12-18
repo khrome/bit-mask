@@ -1,0 +1,35 @@
+{
+    "name": "bit-mask",
+    "homepage": "https://github.com/khrome/bit-mask",
+    "version": "0.0.1-alpha",
+    "main": "bit-mask.js",
+    "description": "A simulator for doing data analysis, segmentation and executing arbitrary rules across data sets",
+    "keywords": [
+        "bitmask",
+        "file mask",
+        "permissions"
+    ],
+    "author": "Abbey Hawk Sparrow <@khrome> (http://patternweaver.com)",
+    "contributors": [],
+    "bugs": {
+        "url": "https://github.com/khrome/bit-mask/issues"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:khrome/bit-mask.git"
+    },
+    "dependencies": {
+        "prime": "*"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*",
+        "faker2": "*"
+    },
+    "optionalDependencies": {
+    },
+    "engines": {
+        "node": "*"
+    }
+}
