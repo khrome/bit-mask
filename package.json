@@ -3,7 +3,7 @@
     "homepage": "https://github.com/khrome/bit-mask",
     "version": "0.0.1-alpha",
     "main": "bit-mask.js",
-    "description": "A simulator for doing data analysis, segmentation and executing arbitrary rules across data sets",
+    "description": "A utility for manipulating bit masks",
     "keywords": [
         "bitmask",
         "file mask",
@@ -24,8 +24,7 @@
     },
     "devDependencies": {
         "mocha": "*",
-        "should": "*",
-        "faker2": "*"
+        "should": "*"
     },
     "optionalDependencies": {
     },
