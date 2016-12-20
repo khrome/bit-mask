@@ -1,7 +1,7 @@
 {
     "name": "bit-mask",
     "homepage": "https://github.com/khrome/bit-mask",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "bit-mask.js",
     "description": "A utility for manipulating bit masks",
     "keywords": [
