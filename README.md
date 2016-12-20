@@ -1,5 +1,10 @@
 bit-mask.js
 ==============
+
+[![NPM version](https://img.shields.io/npm/v/bit-mask.svg)]()
+[![npm](https://img.shields.io/npm/dt/bit-mask.svg)]()
+[![Travis](https://img.shields.io/travis/khrome/bit-mask.svg)]()
+
 An NPM for manipulating bit masks
 
 Just a convenient abstraction for computing bitmasks, such as file permissions. 
