@@ -1,7 +1,7 @@
 {
     "name": "bit-mask",
     "homepage": "https://github.com/khrome/bit-mask",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "bit-mask.js",
     "description": "A utility for manipulating bit masks",
     "keywords": [
@@ -20,14 +20,14 @@
         "url": "git@github.com:khrome/bit-mask.git"
     },
     "dependencies": {
-        "array-events": "0.2.0"
+        "array-events": "^0.2.0"
     },
     "devDependencies": {
         "mocha": "*",
+        "request": "*",
         "should": "*"
     },
-    "optionalDependencies": {
-    },
+    "optionalDependencies": {},
     "engines": {
         "node": "*"
     }

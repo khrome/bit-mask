@@ -47,7 +47,7 @@ OwnershipMask.prototype.modify = function(clause){
     var subjects = [];
     var ch;
     var ob = this;
-    if(type(clause) == 'number') this.value = clause;
+    if(typeof clause == 'number') this.value = clause;
     for(var lcv=0; lcv < clause.length; lcv++){
         ch = clause.charAt(lcv);
         if(operator){
